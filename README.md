@@ -4,3 +4,4 @@ My name is Leonardo Calderaro Teixeira, I am a studying software development in 
 
 In the future, I intend to be a full stack developer and specialize in neural networks. For now, I am focusing in web development. I will at first study Git, HTML, CSS, JavaScript, TypeScript, React, Node.js and Nest.js. Latter on, I intend to study even more technologies in this stack.
 
+This line is temporarily here to test pushing a branc to Github.
